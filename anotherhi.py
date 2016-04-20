@@ -1,4 +1,4 @@
 #!/usr/bin/python
 
-print "yoyoyo"
+print "yoyoyoyo"
 
